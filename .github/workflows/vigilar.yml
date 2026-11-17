@@ -1,0 +1,32 @@
+name: vigilar
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: "Mandar mensaje de prueba"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency: vigilar
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 vigilar.py
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT: ${{ secrets.TG_CHAT }}
+          PRUEBA: ${{ inputs.prueba && '1' || '' }}
+      - name: Guardar estado (y mantener vivo el cron)
+        run: |
+          git config user.name vigilante
+          git config user.email vigilante@users.noreply.github.com
+          git add estado.json
+          if ! git diff --cached --quiet || [ "$(date +%d%H%M | cut -c1-4)" = "0100" ]; then
+            git commit -m "estado" --allow-empty && git push
+          fi
