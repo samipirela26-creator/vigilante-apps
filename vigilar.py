@@ -22,6 +22,7 @@ APPS = [
     ("SaaS", "https://miapp-saas-sanuel.web.app"),
     ("Mis Detallitos", "https://mis-detallitos.web.app"),
     ("Kamilux", "https://kamilux-store.web.app"),
+    ("Nuestra Lista", "https://nuestra-lista-32720.web.app"),
 ]
 # Dominios propios a los que vigilar el vencimiento (los .web.app/github.io no)
 DOMINIOS = ["26092003.xyz", "pizza4estaciones.com"]
