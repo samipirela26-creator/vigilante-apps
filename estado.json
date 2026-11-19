@@ -13,32 +13,32 @@
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.4
+   "seg": 0.5
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 0.2
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 0.1
   },
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "SaaS": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Kamilux": {
    "arriba": true,
