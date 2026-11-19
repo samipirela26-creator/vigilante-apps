@@ -3,37 +3,37 @@
   "Matrimonio": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.4
+   "seg": 0.5
   },
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.9
+   "seg": 0.3
   },
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 0.5
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.2
+   "seg": 0.4
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.2
   },
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.2
+   "seg": 0.1
   },
   "SaaS": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Mis Detallitos": {
    "arriba": true,
@@ -48,7 +48,7 @@
   "Nuestra Lista": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.2
   }
  },
  "ultimo_diario": "2026-11-18",
