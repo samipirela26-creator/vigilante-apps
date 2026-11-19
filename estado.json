@@ -13,17 +13,17 @@
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.9
+   "seg": 0.5
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.6
+   "seg": 0.5
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 0.1
   },
   "Mi Carro": {
    "arriba": true,
@@ -43,7 +43,7 @@
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Nuestra Lista": {
    "arriba": true,
@@ -51,9 +51,9 @@
    "seg": 0.1
   }
  },
- "ultimo_diario": "2026-11-18",
+ "ultimo_diario": "2026-11-19",
  "dominios": {
-  "26092003.xyz": 259,
-  "pizza4estaciones.com": 273
+  "26092003.xyz": 258,
+  "pizza4estaciones.com": 272
  }
 }
