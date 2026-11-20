@@ -8,17 +8,17 @@
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.6
+   "seg": 0.3
   },
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.6
+   "seg": 0.5
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.5
+   "seg": 0.2
   },
   "Airtek": {
    "arriba": true,
