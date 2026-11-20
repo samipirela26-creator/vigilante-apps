@@ -3,12 +3,12 @@
   "Matrimonio": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.5
+   "seg": 0.6
   },
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 0.4
   },
   "AsistApp": {
    "arriba": true,
