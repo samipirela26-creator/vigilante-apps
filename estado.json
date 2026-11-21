@@ -3,17 +3,17 @@
   "Matrimonio": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.7
+   "seg": 0.8
   },
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.4
+   "seg": 0.5
   },
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.5
+   "seg": 0.6
   },
   "Sistema Escolar": {
    "arriba": true,
