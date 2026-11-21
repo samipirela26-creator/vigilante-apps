@@ -3,17 +3,17 @@
   "Matrimonio": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.5
+   "seg": 0.6
   },
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.2
+   "seg": 0.4
   },
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.2
+   "seg": 0.9
   },
   "Sistema Escolar": {
    "arriba": true,
@@ -23,12 +23,12 @@
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.2
   },
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "SaaS": {
    "arriba": true,
@@ -38,7 +38,7 @@
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Kamilux": {
    "arriba": true,
