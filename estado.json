@@ -3,22 +3,22 @@
   "Matrimonio": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.5
+   "seg": 0.9
   },
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.2
+   "seg": 0.6
   },
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 1.1
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 0.5
   },
   "Airtek": {
    "arriba": true,
@@ -33,7 +33,7 @@
   "SaaS": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Mis Detallitos": {
    "arriba": true,
@@ -51,9 +51,9 @@
    "seg": 0.1
   }
  },
- "ultimo_diario": "2026-11-21",
+ "ultimo_diario": "2026-11-22",
  "dominios": {
   "26092003.xyz": 257,
-  "pizza4estaciones.com": 270
+  "pizza4estaciones.com": 269
  }
 }
