@@ -5,38 +5,38 @@
    "lenta": false,
    "seg": null,
    "caida_desde": 1795381229.4019856,
-   "recordado": 1795433133.8474138
+   "recordado": 1795435228.6860573
   },
   "Pizza": {
    "arriba": false,
    "lenta": false,
    "seg": null,
    "caida_desde": 1795381229.4019856,
-   "recordado": 1795433133.8474138
+   "recordado": 1795435228.6860573
   },
   "AsistApp": {
    "arriba": false,
    "lenta": false,
    "seg": null,
    "caida_desde": 1795381229.4019856,
-   "recordado": 1795433133.8474138
+   "recordado": 1795435228.6860573
   },
   "Sistema Escolar": {
    "arriba": false,
    "lenta": false,
    "seg": null,
    "caida_desde": 1795381229.4019856,
-   "recordado": 1795433133.8474138
+   "recordado": 1795435228.6860573
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "SaaS": {
    "arriba": true,
@@ -46,7 +46,7 @@
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Kamilux": {
    "arriba": true,
@@ -59,9 +59,9 @@
    "seg": 0.1
   }
  },
- "ultimo_diario": "2026-11-22",
+ "ultimo_diario": "2026-11-23",
  "dominios": {
-  "26092003.xyz": 257,
-  "pizza4estaciones.com": 269
+  "26092003.xyz": 254,
+  "pizza4estaciones.com": 268
  }
 }
