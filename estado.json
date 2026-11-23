@@ -31,7 +31,7 @@
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.2
   },
   "Mi Carro": {
    "arriba": true,
@@ -46,12 +46,12 @@
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Nuestra Lista": {
    "arriba": true,
