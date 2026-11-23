@@ -36,7 +36,7 @@
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "SaaS": {
    "arriba": true,
@@ -46,7 +46,7 @@
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Kamilux": {
    "arriba": true,
