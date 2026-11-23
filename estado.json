@@ -5,28 +5,28 @@
    "lenta": false,
    "seg": null,
    "caida_desde": 1795381229.4019856,
-   "recordado": 1795414834.1754124
+   "recordado": 1795416929.7618337
   },
   "Pizza": {
    "arriba": false,
    "lenta": false,
    "seg": null,
    "caida_desde": 1795381229.4019856,
-   "recordado": 1795414834.1754124
+   "recordado": 1795416929.7618337
   },
   "AsistApp": {
    "arriba": false,
    "lenta": false,
    "seg": null,
    "caida_desde": 1795381229.4019856,
-   "recordado": 1795414834.1754124
+   "recordado": 1795416929.7618337
   },
   "Sistema Escolar": {
    "arriba": false,
    "lenta": false,
    "seg": null,
    "caida_desde": 1795381229.4019856,
-   "recordado": 1795414834.1754124
+   "recordado": 1795416929.7618337
   },
   "Airtek": {
    "arriba": true,
@@ -41,7 +41,7 @@
   "SaaS": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Mis Detallitos": {
    "arriba": true,
