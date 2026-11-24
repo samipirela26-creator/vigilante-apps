@@ -3,27 +3,27 @@
   "Matrimonio": {
    "arriba": true,
    "lenta": false,
-   "seg": 1.3
+   "seg": 0.8
   },
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.6
+   "seg": 0.4
   },
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 3.5
+   "seg": 1.5
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 1.1
+   "seg": 0.6
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Mi Carro": {
    "arriba": true,
