@@ -1,29 +1,37 @@
 {
  "apps": {
   "Matrimonio": {
-   "arriba": true,
+   "arriba": false,
    "lenta": false,
-   "seg": 0.6
+   "seg": null,
+   "caida_desde": 1795503635.4395497,
+   "recordado": 1795503635.4395497
   },
   "Pizza": {
-   "arriba": true,
+   "arriba": false,
    "lenta": false,
-   "seg": 0.5
+   "seg": null,
+   "caida_desde": 1795503635.4395497,
+   "recordado": 1795503635.4395497
   },
   "AsistApp": {
-   "arriba": true,
+   "arriba": false,
    "lenta": false,
-   "seg": 0.9
+   "seg": null,
+   "caida_desde": 1795503635.4395497,
+   "recordado": 1795503635.4395497
   },
   "Sistema Escolar": {
-   "arriba": true,
+   "arriba": false,
    "lenta": false,
-   "seg": 0.3
+   "seg": null,
+   "caida_desde": 1795503635.4395497,
+   "recordado": 1795503635.4395497
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 0.1
   },
   "Mi Carro": {
    "arriba": true,
