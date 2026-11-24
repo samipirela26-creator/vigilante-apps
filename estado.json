@@ -8,22 +8,22 @@
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.8
+   "seg": 1.0
   },
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 4.1
+   "seg": 3.7
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.4
+   "seg": 2.6
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Mi Carro": {
    "arriba": true,
@@ -38,12 +38,12 @@
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Nuestra Lista": {
    "arriba": true,
