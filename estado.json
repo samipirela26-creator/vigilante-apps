@@ -2,23 +2,23 @@
  "apps": {
   "Matrimonio": {
    "arriba": true,
-   "lenta": false,
-   "seg": 7.5
+   "lenta": true,
+   "seg": 37.5
   },
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 6.8
+   "seg": 5.4
   },
   "AsistApp": {
    "arriba": true,
-   "lenta": true,
-   "seg": 16.3
+   "lenta": false,
+   "seg": 9.0
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 4.3
+   "seg": 4.4
   },
   "Airtek": {
    "arriba": true,
