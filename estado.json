@@ -2,23 +2,23 @@
  "apps": {
   "Matrimonio": {
    "arriba": true,
-   "lenta": false,
-   "seg": 1.5
+   "lenta": true,
+   "seg": 23.1
   },
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.6
+   "seg": 4.9
   },
   "AsistApp": {
    "arriba": true,
-   "lenta": false,
-   "seg": 1.0
+   "lenta": true,
+   "seg": 11.8
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.6
+   "seg": 8.4
   },
   "Airtek": {
    "arriba": true,
@@ -43,12 +43,12 @@
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Nuestra Lista": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.3
   }
  },
  "ultimo_diario": "2026-11-24",
