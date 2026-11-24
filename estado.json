@@ -8,24 +8,28 @@
    "recordado": 1795537530.1379209
   },
   "Pizza": {
-   "arriba": true,
-   "lenta": true,
-   "seg": 22.2
+   "arriba": false,
+   "lenta": false,
+   "seg": null,
+   "caida_desde": 1795537830.7764442,
+   "recordado": 1795537830.7764442
   },
   "AsistApp": {
-   "arriba": true,
-   "lenta": true,
-   "seg": 31.5
+   "arriba": false,
+   "lenta": false,
+   "seg": null,
+   "caida_desde": 1795537830.7764442,
+   "recordado": 1795537830.7764442
   },
   "Sistema Escolar": {
    "arriba": true,
-   "lenta": false,
-   "seg": 9.0
+   "lenta": true,
+   "seg": 20.4
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.2
   },
   "Mi Carro": {
    "arriba": true,
