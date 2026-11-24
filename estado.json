@@ -1,33 +1,29 @@
 {
  "apps": {
   "Matrimonio": {
-   "arriba": false,
-   "lenta": false,
-   "seg": null,
-   "caida_desde": 1795511129.8520174,
-   "recordado": 1795511129.8520174
+   "arriba": true,
+   "lenta": true,
+   "seg": 16.8
   },
   "Pizza": {
-   "arriba": false,
+   "arriba": true,
    "lenta": false,
-   "seg": null,
-   "caida_desde": 1795511129.8520174,
-   "recordado": 1795511129.8520174
+   "seg": 6.7
   },
   "AsistApp": {
    "arriba": true,
    "lenta": true,
-   "seg": 39.0
+   "seg": 151.5
   },
   "Sistema Escolar": {
    "arriba": true,
-   "lenta": false,
-   "seg": 3.5
+   "lenta": true,
+   "seg": 24.7
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Mi Carro": {
    "arriba": true,
@@ -37,17 +33,17 @@
   "SaaS": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Nuestra Lista": {
    "arriba": true,
