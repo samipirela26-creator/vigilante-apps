@@ -22,11 +22,9 @@
    "recordado": 1795496729.973216
   },
   "Sistema Escolar": {
-   "arriba": false,
+   "arriba": true,
    "lenta": false,
-   "seg": null,
-   "caida_desde": 1795496729.973216,
-   "recordado": 1795496729.973216
+   "seg": 5.5
   },
   "Airtek": {
    "arriba": true,
@@ -36,7 +34,7 @@
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.2
   },
   "SaaS": {
    "arriba": true,
