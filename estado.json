@@ -1,34 +1,40 @@
 {
  "apps": {
   "Matrimonio": {
-   "arriba": true,
-   "lenta": true,
-   "seg": 19.6
+   "arriba": false,
+   "lenta": false,
+   "seg": null,
+   "caida_desde": 1795514429.9852998,
+   "recordado": 1795514429.9852998
   },
   "Pizza": {
-   "arriba": true,
-   "lenta": true,
-   "seg": 13.7
+   "arriba": false,
+   "lenta": false,
+   "seg": null,
+   "caida_desde": 1795514429.9852998,
+   "recordado": 1795514429.9852998
   },
   "AsistApp": {
-   "arriba": true,
-   "lenta": true,
-   "seg": 30.5
+   "arriba": false,
+   "lenta": false,
+   "seg": null,
+   "caida_desde": 1795514429.9852998,
+   "recordado": 1795514429.9852998
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": true,
-   "seg": 15.9
+   "seg": 23.1
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.2
   },
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "SaaS": {
    "arriba": true,
