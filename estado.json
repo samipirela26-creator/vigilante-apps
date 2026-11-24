@@ -1,18 +1,14 @@
 {
  "apps": {
   "Matrimonio": {
-   "arriba": false,
-   "lenta": false,
-   "seg": null,
-   "caida_desde": 1795550732.6209455,
-   "recordado": 1795550732.6209455
+   "arriba": true,
+   "lenta": true,
+   "seg": 31.2
   },
   "Pizza": {
-   "arriba": false,
-   "lenta": false,
-   "seg": null,
-   "caida_desde": 1795550732.6209455,
-   "recordado": 1795550732.6209455
+   "arriba": true,
+   "lenta": true,
+   "seg": 21.2
   },
   "AsistApp": {
    "arriba": false,
@@ -36,7 +32,7 @@
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "SaaS": {
    "arriba": true,
@@ -46,12 +42,12 @@
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Nuestra Lista": {
    "arriba": true,
