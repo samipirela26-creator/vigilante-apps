@@ -15,28 +15,24 @@
    "recordado": 1795538431.2395217
   },
   "AsistApp": {
-   "arriba": false,
-   "lenta": false,
-   "seg": null,
-   "caida_desde": 1795538431.2395217,
-   "recordado": 1795538431.2395217
+   "arriba": true,
+   "lenta": true,
+   "seg": 48.8
   },
   "Sistema Escolar": {
-   "arriba": false,
+   "arriba": true,
    "lenta": false,
-   "seg": null,
-   "caida_desde": 1795538431.2395217,
-   "recordado": 1795538431.2395217
+   "seg": 4.9
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.2
+   "seg": 0.1
   },
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "SaaS": {
    "arriba": true,
@@ -51,7 +47,7 @@
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Nuestra Lista": {
    "arriba": true,
