@@ -8,18 +8,14 @@
    "recordado": 1795533330.8914018
   },
   "Pizza": {
-   "arriba": false,
-   "lenta": false,
-   "seg": null,
-   "caida_desde": 1795533330.8914018,
-   "recordado": 1795533330.8914018
+   "arriba": true,
+   "lenta": true,
+   "seg": 17.8
   },
   "AsistApp": {
-   "arriba": false,
-   "lenta": false,
-   "seg": null,
-   "caida_desde": 1795533330.8914018,
-   "recordado": 1795533330.8914018
+   "arriba": true,
+   "lenta": true,
+   "seg": 61.6
   },
   "Sistema Escolar": {
    "arriba": false,
@@ -36,22 +32,22 @@
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "SaaS": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 2.8
   },
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Nuestra Lista": {
    "arriba": true,
