@@ -10,27 +10,27 @@
   "Pizza": {
    "arriba": true,
    "lenta": true,
-   "seg": 10.6
+   "seg": 19.7
   },
   "AsistApp": {
    "arriba": true,
    "lenta": true,
-   "seg": 15.6
+   "seg": 20.0
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 1.8
+   "seg": 1.7
   },
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 0.1
   },
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "SaaS": {
    "arriba": true,
@@ -45,7 +45,7 @@
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "Nuestra Lista": {
    "arriba": true,
