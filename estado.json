@@ -8,9 +8,11 @@
    "recordado": 1795498229.2513623
   },
   "Pizza": {
-   "arriba": true,
-   "lenta": true,
-   "seg": 24.8
+   "arriba": false,
+   "lenta": false,
+   "seg": null,
+   "caida_desde": 1795498530.65671,
+   "recordado": 1795498530.65671
   },
   "AsistApp": {
    "arriba": false,
@@ -29,12 +31,12 @@
   "Airtek": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.3
+   "seg": 0.1
   },
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.0
+   "seg": 0.1
   },
   "SaaS": {
    "arriba": true,
@@ -44,12 +46,12 @@
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Nuestra Lista": {
    "arriba": true,
