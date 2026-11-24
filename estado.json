@@ -1,24 +1,26 @@
 {
  "apps": {
   "Matrimonio": {
-   "arriba": true,
-   "lenta": true,
-   "seg": 10.3
+   "arriba": false,
+   "lenta": false,
+   "seg": null,
+   "caida_desde": 1795496128.9029427,
+   "recordado": 1795496128.9029427
   },
   "Pizza": {
    "arriba": true,
-   "lenta": false,
-   "seg": 0.5
+   "lenta": true,
+   "seg": 16.4
   },
   "AsistApp": {
    "arriba": true,
-   "lenta": false,
-   "seg": 8.8
+   "lenta": true,
+   "seg": 34.3
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 3.6
+   "seg": 1.7
   },
   "Airtek": {
    "arriba": true,
@@ -33,7 +35,7 @@
   "SaaS": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.3
   },
   "Mis Detallitos": {
    "arriba": true,
