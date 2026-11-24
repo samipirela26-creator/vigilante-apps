@@ -8,21 +8,19 @@
    "recordado": 1795492835.7746959
   },
   "Pizza": {
-   "arriba": false,
-   "lenta": false,
-   "seg": null,
-   "caida_desde": 1795492835.7746959,
-   "recordado": 1795492835.7746959
+   "arriba": true,
+   "lenta": true,
+   "seg": 19.2
   },
   "AsistApp": {
    "arriba": true,
    "lenta": true,
-   "seg": 76.7
+   "seg": 100.0
   },
   "Sistema Escolar": {
    "arriba": true,
-   "lenta": false,
-   "seg": 5.5
+   "lenta": true,
+   "seg": 10.4
   },
   "Airtek": {
    "arriba": true,
@@ -32,7 +30,7 @@
   "Mi Carro": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "SaaS": {
    "arriba": true,
@@ -42,7 +40,7 @@
   "Mis Detallitos": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.0
   },
   "Kamilux": {
    "arriba": true,
@@ -52,7 +50,7 @@
   "Nuestra Lista": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.2
   }
  },
  "ultimo_diario": "2026-11-23",
