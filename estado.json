@@ -8,17 +8,17 @@
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.5
+   "seg": 0.6
   },
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.6
+   "seg": 0.7
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.4
+   "seg": 0.5
   },
   "Airtek": {
    "arriba": true,
@@ -43,7 +43,7 @@
   "Kamilux": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.3
   },
   "Nuestra Lista": {
    "arriba": true,
