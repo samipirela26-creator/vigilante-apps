@@ -3,22 +3,22 @@
   "Matrimonio": {
    "arriba": true,
    "lenta": false,
-   "seg": 1.2
+   "seg": 0.9
   },
   "Pizza": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.6
+   "seg": 0.4
   },
   "AsistApp": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.7
+   "seg": 0.5
   },
   "Sistema Escolar": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.5
+   "seg": 0.4
   },
   "Airtek": {
    "arriba": true,
@@ -48,7 +48,7 @@
   "Nuestra Lista": {
    "arriba": true,
    "lenta": false,
-   "seg": 0.1
+   "seg": 0.2
   }
  },
  "ultimo_diario": "2026-11-26",
